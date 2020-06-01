@@ -5,6 +5,9 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="ListViewDemo.MainPage">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="+" Command="{Binding AddFriendCommand}"></ToolbarItem>
+    </ContentPage.ToolbarItems>
 
     <ListView 
         ItemsSource="{Binding Friends}" 

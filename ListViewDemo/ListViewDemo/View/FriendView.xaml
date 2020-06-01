@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ListViewDemo.View.FriendView">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="First Name:"></Label>
+            <Entry Placeholder="Alan"
+                   Text="{Binding NewFriend.FirstName}"></Entry>
+            
+            <Label Text="Phone:"></Label>
+            <Entry Placeholder="(55)76094900"
+                   Text="{Binding NewFriend.Phone}"></Entry>
+            
+            <Label Text="Email:"></Label>
+            <Entry Placeholder="edri.alan.94@gmail.com"
+                   Text="{Binding NewFriend.Phone}"></Entry>
+
+            <Button HeightRequest="100" Text="save friend" Command="{Binding SaveFriendCommand}"></Button>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
