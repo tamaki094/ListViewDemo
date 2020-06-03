@@ -17,9 +17,9 @@
             
             <Label Text="Email:"></Label>
             <Entry Placeholder="edri.alan.94@gmail.com"
-                   Text="{Binding NewFriend.Phone}"></Entry>
+                   Text="{Binding NewFriend.Email}"></Entry>
 
-            <Button HeightRequest="100" Text="save friend" Command="{Binding SaveFriendCommand}"></Button>
+            <Button HeightRequest="100" Text="save friend" Command="{Binding AddFriendCommand}"></Button>
             
         </StackLayout>
     </ContentPage.Content>

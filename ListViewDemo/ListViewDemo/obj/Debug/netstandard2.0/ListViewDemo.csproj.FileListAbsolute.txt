@@ -4,9 +4,12 @@ C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\bin\Debug\net
 C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\bin\Debug\netstandard2.0\ListViewDemo.pdb
 C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\obj\Debug\netstandard2.0\ListViewDemo.csprojAssemblyReference.cache
 C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\obj\Debug\netstandard2.0\ListViewDemo.AssemblyInfoInputs.cache
 C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\obj\Debug\netstandard2.0\ListViewDemo.AssemblyInfo.cs
 C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\obj\Debug\netstandard2.0\ListViewDemo.dll
 C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\obj\Debug\netstandard2.0\ref\ListViewDemo.dll
 C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\obj\Debug\netstandard2.0\ListViewDemo.pdb
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\obj\Debug\netstandard2.0\View\FriendView.xaml.g.cs
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\obj\Debug\netstandard2.0\ListViewDemo.csproj.CoreCompileInputs.cache
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo\obj\Debug\netstandard2.0\XamlC.stamp

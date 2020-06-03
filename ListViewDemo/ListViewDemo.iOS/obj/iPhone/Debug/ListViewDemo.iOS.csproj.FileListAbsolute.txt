@@ -58,3 +58,14 @@ C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\obj\iPhon
 C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\obj\iPhone\Debug\ListViewDemo.iOS.csproj.CopyComplete
 C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\obj\iPhone\Debug\ListViewDemo.iOS.exe
 C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\obj\iPhone\Debug\ListViewDemo.iOS.pdb
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\bin\iPhone\Debug\SQLite-net.dll
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\bin\iPhone\Debug\System.IO.Compression.dll
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\bin\iPhone\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\bin\iPhone\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\bin\iPhone\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\edria\source\repos\ListViewDemo\ListViewDemo\ListViewDemo.iOS\bin\iPhone\Debug\System.Security.Cryptography.X509Certificates.dll

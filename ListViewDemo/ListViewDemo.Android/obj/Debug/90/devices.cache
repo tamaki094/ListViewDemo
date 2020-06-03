@@ -1,1 +1,1 @@
-<Devices><Device id="192.168.231.101:5555"><ResultingAbi>x86</ResultingAbi><SdkVersion>26</SdkVersion></Device><Device id="12c774cd"><ResultingAbi>arm64-v8a</ResultingAbi><SdkVersion>28</SdkVersion></Device></Devices>
+<Devices><Device id="12c774cd"><ResultingAbi>arm64-v8a</ResultingAbi><SdkVersion>28</SdkVersion></Device></Devices>

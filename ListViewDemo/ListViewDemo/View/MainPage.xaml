@@ -3,7 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             mc:Ignorable="d"
+             xmlns:local="clr-namespace:ListasViewDemo.Behaviors"
+             mc:Ignorable="d"          
              x:Class="ListViewDemo.MainPage">
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="+" Command="{Binding AddFriendCommand}"></ToolbarItem>
@@ -16,7 +17,10 @@
         SeparatorColor="Red"
         HasUnevenRows="True"
         IsGroupingEnabled="True"
-        GroupShortNameBinding="{Binding key}">
+        GroupShortNameBinding="{Binding key}"
+        SelectedItem="{Binding CurrentFriend}"
+        local:ItemTappedAttached.Command="{Binding ItemTappedCommand}"
+        >
         <ListView.GroupHeaderTemplate>
             <DataTemplate>
                 <ViewCell Height="30">
